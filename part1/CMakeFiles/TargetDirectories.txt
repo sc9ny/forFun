@@ -1,0 +1,8 @@
+/Users/seungleechoi/desktop/untitled folder/software_accessment_part1/CMakeFiles/install/local.dir
+/Users/seungleechoi/desktop/untitled folder/software_accessment_part1/CMakeFiles/install/strip.dir
+/Users/seungleechoi/desktop/untitled folder/software_accessment_part1/CMakeFiles/install.dir
+/Users/seungleechoi/desktop/untitled folder/software_accessment_part1/CMakeFiles/list_install_components.dir
+/Users/seungleechoi/desktop/untitled folder/software_accessment_part1/CMakeFiles/rebuild_cache.dir
+/Users/seungleechoi/desktop/untitled folder/software_accessment_part1/CMakeFiles/edit_cache.dir
+/Users/seungleechoi/desktop/untitled folder/software_accessment_part1/CMakeFiles/GUI.dir
+/Users/seungleechoi/desktop/untitled folder/software_accessment_part1/CMakeFiles/GUI_automoc.dir
